@@ -1,0 +1,49 @@
+- [ ] Micro-computer organization and its basic components:
+	- [ ] Carry Look Ahead adders, 
+	- [ ] Carry Save adder, 
+	- [ ] Multipliers (e.g. Booth’s algorithm), 
+	- [ ] Divider, 
+	- [ ] Fixed and Floating point (IEEE754) number representations, 
+	- [ ] Finite State Machine (FSM) representation. 
+- [ ] Basic Accumulator based CPU: 
+	- [ ] Organization, 
+	- [ ] instruction set, 
+	- [ ] programming considerations, 
+	- [ ] RISC & CISC Processors- 
+		- [ ] Instruction Sets, 
+		- [ ] addressing Modes. 
+- [ ] Introduction to the Basic MIPS:
+	- [ ] Instruction Set. 
+	- [ ] Fixed Point ALUs: 
+		- [ ] Combinational and Sequential ALUs, 
+		- [ ] ALU Expansion.
+- [ ] Floating Point Arithmetic circuits: 
+	- [ ] Pipelined Processing, 
+	- [ ] Systolic Arrays, 
+	- [ ] resolving structural, data, control, and name hazards; 
+	- [ ] analyzing processor performance, 
+	- [ ] Memory mapping(e.g. RAM, cache); 
+	- [ ] Non-blocking cache memories; 
+	- [ ] memory protection, 
+	- [ ] translation and virtualization, 
+	- [ ] synchronization, 
+	- [ ] consistency and coherence, 
+	- [ ] direct-mapped and associative caches; 
+	- [ ] write-through and write-back caches, 
+	- [ ] pipelined caches, 
+	- [ ] analyzing memory performance. 
+- [ ] Processor Architecture: 
+	- [ ] Super-scalar execution, 
+	- [ ] Out-of-order execution, 
+	- [ ] register renaming, 
+	- [ ] memory disambiguation, 
+	- [ ] branch prediction, 
+	- [ ] speculative execution; 
+	- [ ] multithreaded, 
+	- [ ] VLIW, and SIMD processors. 
+- [ ] Hardwired and Micro- programmed Control Design. 
+	- [ ] Buses, 
+	- [ ] bus arbitration, 
+	- [ ] I/O control, 
+	- [ ] interrupts and direct memory access, 
+	- [ ] virtual memory mapping and addressing.
