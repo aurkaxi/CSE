@@ -1,0 +1,61 @@
+- [ ] introduction
+	- [ ] general overview and purpose of dbms
+	- [ ] advantages
+	- [ ] applications
+	- [ ] common features and overall structure of the database
+- [ ] data modeling (relational model)
+	- [ ] structure of relational model
+	- [ ] key constraints
+	- [ ] referential integrity constraints
+	- [ ] general constraints
+	- [ ] relational algebra
+		- [ ] fundamental
+		- [ ] additional and extended operations
+		- [ ] aggregate functions
+		- [ ] outer joins database modification using RA
+	- [ ] er model
+		- [ ] entity and relationship sets
+		- [ ] constraints
+			- [ ] key
+			- [ ] mapping cardinality and participation constraints
+		- [ ] strong and weak entity sets
+		- [ ] e-r diagram
+		- [ ] class hierarchies
+		- [ ] aggregation
+		- [ ] conceptual database design with the er model
+		- [ ] converting er to relational model
+- [ ] database application development (sql)
+	- [ ] data definition and data manipulation languages
+	- [ ] integrity constraints
+	- [ ] basic queries 
+	- [ ] nested and complex queries 
+	- [ ] modification of the database
+	- [ ] views
+		- [ ] defintition
+		- [ ] update on views
+	- [ ] cursors
+	- [ ] extending dbms functionality
+		- [ ] stored procedures
+		- [ ] assertions and triggers
+		- [ ] embedded and dynamic sql
+		- [ ] dbms administration
+			- [ ] dba
+			- [ ] users
+			- [ ] privileges
+			- [ ] security
+- [ ] relational database design
+	- [ ] features of good relational design
+	- [ ] functional dependency theory
+		- [ ] basic concept
+		- [ ] uses
+		- [ ] closure of a set of fd
+		- [ ] closure attribute sets
+		- [ ] canonical cover
+		- [ ] algorithms for fd
+		- [ ] decomposition using fds & its desirable properties
+	- [ ] normalization
+		- [ ] atomic domains and first normal form
+		- [ ] bcnf and 3nf
+		- [ ] multi-valued dependencies and fourth normal form
+		- [ ] decomposition algorithms for different normal forms
+		- [ ] database design process
