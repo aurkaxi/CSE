@@ -1,0 +1,51 @@
+- [ ] Introduction: 
+	- [ ] Definition and applications of Mechatronics, 
+	- [ ] relationship amongst different disciplines. 
+- [ ] Basics of Electronics: 
+	- [ ] Fundamental concepts of circuits and electrics.
+- [ ] Basics of Mechanical Engineering: 
+	- [ ] Fundamental concepts of 
+		- [ ] Mechanics, 
+		- [ ] measurement systems, 
+		- [ ] control systems, 
+		- [ ] mechanical design, 
+		- [ ] discrete linear systems. 
+- [ ] Sensors and Transducers: 
+	- [ ] Sensors for 
+		- [ ] displacement, 
+		- [ ] proximity, 
+		- [ ] motion, 
+		- [ ] sound, 
+		- [ ] light, 
+		- [ ] temperature, 
+		- [ ] fluid Level and flow, 
+		- [ ] force, etc. 
+- [ ] Actuation Systems: 
+	- [ ] Basics of pneumatic and hydraulic systems, 
+	- [ ] mechanical actuation systems, 
+	- [ ] electrical actuation systems, 
+	- [ ] servos. 
+- [ ] System Models and Controllers: 
+	- [ ] Fundamentals of 
+		- [ ] electrical, 
+		- [ ] mechanical, 
+		- [ ] fluid and thermal systems, 
+		- [ ] electromechanical systems, 
+		- [ ] process controllers, 
+		- [ ] control modes, 
+		- [ ] PID and digital controllers, 
+		- [ ] velocity, 
+		- [ ] adaptive, 
+		- [ ] digital logic, 
+		- [ ] microprocessor control. 
+- [ ] Programmable Logic Controllers: 
+	- [ ] Fundamentals of PLCs, 
+	- [ ] mnemonics and timers, 
+	- [ ] relays and counters, 
+	- [ ] master and jump control, 
+	- [ ] data control, 
+	- [ ] analog I/O control. 
+- [ ] Design of Mechatronics Systems: 
+	- [ ] Steps of mechatronics system design, 
+	- [ ] possible design solutions, 
+	- [ ] case study.
