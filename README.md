@@ -10,7 +10,8 @@ kemne pass korsi jani na
 # level 2 semester 1
 ## data structure and algorithm (dsa)
 alogorithm = [abdul bari](https://www.youtube.com/@abdul_bari)
-in youtube search "<algorithm> abdul bari"
+
+in youtube search `<algorithm> abdul bari`
 
 ## object oriented programming (oop)
 [official java resource](https://dev.java/learn/)
@@ -18,18 +19,21 @@ in youtube search "<algorithm> abdul bari"
 ## digital electronics and pulse technique (dept)
 1. whatever book teacher recommends
 2. [youtube playlist by neso academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
+
 search youtube with your missing topics in neso academy.
 
 ## electronic devices and circuit
 this is just analog electronics. same recommendation as digital electronics
 1. whatever book teacher recommends
 2. [youtube playlist by neso academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS)
+
 search youtube with your missing topics in neso academy.
 
 ## linear algebra
 1. before you breath, complete this playlist: [essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 this will teach you concept. 
 2. now for calculations and everything else you can either complete this following playlist or pick only necessary videos from this playlist. [dr. trefor bazette](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
+
 and then you just follow your teachers lecture sheet for exam. no teacher can stop you from gpa 4 out of 4 now. 
 
 ## bangladesh studies
@@ -41,7 +45,8 @@ huh?
 
 ## design & analysis of algorithms - 1 
 alogorithm = [abdul bari](https://www.youtube.com/@abdul_bari)
-in youtube search "<algorithm> abdul bari"
+
+in youtube search `<algorithm> abdul bari`
 
 ## data & telecommunication 
 -wip-
