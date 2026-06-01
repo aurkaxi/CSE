@@ -1,4 +1,4 @@
-# incourse 1 
+# mec incourse 1 
 1. find minimum spanning tree using prim's algorithm from the following graph
 ```mermaid
 flowchart
@@ -25,3 +25,7 @@ n3 --4--> n1
 | ------------- | --- | --- | --- | --- | --- |
 | weights in kg | 3   | 3   | 2   | 5   | 1   |
 | profits       | 10  | 15  | 10  | 12  | 8   |
+# mec incourse 2
+1. compare dynamic programming with greedy and divide and conquer method
+2. x=president and y=providence. longest common subsequence with length
+3. solve the following recurrence relation using substitution method: T(n)=T(n/2)+c if n>1. T(n)=1 if n = 1.
