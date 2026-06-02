@@ -29,3 +29,37 @@ n3 --4--> n1
 1. compare dynamic programming with greedy and divide and conquer method
 2. x=president and y=providence. longest common subsequence with length
 3. solve the following recurrence relation using substitution method: T(n)=T(n/2)+c if n>1. T(n)=1 if n = 1.
+# nitter incourse 1
+1. define algorithm. key criteria
+2. recurrence relation solve
+	1. $T(n)=2T(n/2)+n$ where $T(1)=1$ as initial condition (using substitution method)
+	2. $T(n)=2T(n/2)+n/log(n)$ using master method
+3. define
+	1. bi-connected components
+	2. bridge
+	3. articulation point
+	4. euler path
+4. define dfs. apply dfs based topological sorting on the following graph.
+```mermaid
+flowchart LR
+7 --> 5 --> 2 --> 1 --> 0
+5 --> 4
+7 --> 6 --> 3 --> 1 
+6 --> 4
+```
+5. shortest path using bellman ford algorithm, A is source
+```mermaid
+flowchart
+A --6--> B
+A --4--> C
+A -- x --> D
+
+B --4--> E
+C -- -2 --> B
+C -- x --> E
+
+D -- -5 --> C
+D -- 4 --> F
+
+E --3--> F
+```

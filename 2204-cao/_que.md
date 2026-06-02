@@ -16,3 +16,9 @@
 	2. indirect addressing
 	3. register indirect addressing
 	4. base register addressing
+# niter incourse 1
+1. design a 4 bit carry look ahead adder
+2. explain the working procedure of carry save adder.
+3. depict the block diagram of the von neumann architecture
+4. perform restoring division algorithm where, dividend = 13 and divisor = 4. 
+5. describe ieee 754 representation of 18.625

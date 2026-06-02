@@ -16,3 +16,28 @@
 3. how stop-and-wait arq protocol works for noisy channels
 4. humming code technique for error correction
 5. functions of hdlc frame formats
+# niter incourse 1
+1. differentiate between data and telecommunication
+2. distinguish between the topologies
+	1. bus vs star
+	2. mesh vs hybrid
+3. draw three sine waves with different amplitude, frequency and phase
+4. justify the statement based on fourier analysis - "a digital signal is a composite analog signal"
+5. a signal has a bandwidth of 20hz and highest frequency is 60hz, determine lowest frequency and draw the spectrum if the signal contains all integral frequencies of the same amplitude
+6. determine bandwidth of a periodic signal that is cecomposed into 4 sine waves with frequencies of 100, 300, 500, and 900 hz. draw the spectrum assuming all components have a mazimum amplitude of 10v.
+7. if the peak voltage of a signal is 20 times the peak voltage of the noise, what is snr and and $snr_(db)$ 
+8. calculate the channel capacity for a channel with spectrum 1Mhz to 2Mhz and a signal to noise ratio of 15dB
+9. how are iso and osi related to each other? match the following to one or more layers of the osi model
+	1. reliable process to process message delivery
+	2. error correction and retransmission
+	3. define frames
+	4. user service (email, file ransfer)
+	5. transmission of bit stream
+10. suppose you are asked to communicate between host A(clien) and host B(https web server), where there is an intermediate device (S). now using the mentioned application and addressing draw all the steps involved in a tcp/ip communication
+
+| device type      | client A          | server B          | switch S |
+| ---------------- | ----------------- | ----------------- | -------- |
+| application type | ftp request       | ftp data          | n/a      |
+| ip address       | 102.168.10.10     | 192.168.10.20     | n/a      |
+| mac adress       | a1:a2:a3:a4:a5:a6 | b1:b2:b3:b4:b5:b6 | n/a      |
+your answer should include all the basic and appropriate header contents of transport layer. network layer and data-link layer of tcp/ip protocol
