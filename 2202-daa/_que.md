@@ -63,3 +63,38 @@ D -- 4 --> F
 
 E --3--> F
 ```
+# fec incourse 1
+1. write down the key criterial of algorithm. to find the complexity of the following algorithm
+   ```c
+   int sum (int a[], int n){
+	   int sum = 0;
+	   for(i = 0; i<n;i--){
+		   sum = sum + a[i];
+	   }
+	   return sum;
+   }
+   ```
+2. solve the following recurrence relation
+	1. $T(n)=Tn(n-1)+1$ if n>0 (substitution method)
+	2. $T(n)=2T(n/2)+n^2$ (recursion tree method)
+	3. $T(n)=8T(n/2)+n^2$ (master method)
+3. define bi-connected components and bridge. can we apply dijkstra's algorithm on a graph with negative edge? compare between dijkstra's and bellman ford's algorithm. which one is better and how?
+4. to find the strongly connected components (scc) to the following graph: starting vertices>1
+   ```mermaid
+   flowchart LR
+   1 --> 2 --> 3 --> 1
+   2 --> 4 --> 5 --> 6 --> 7 --> 8 --> 5 --> 4 --> 3
+   8 --> 7 --> 6
+   ```
+5. run dijstra's algorithm on the following graph to find the shortest weighted path from 's' to each of the other vertices
+```mermaid
+flowchart LR
+s --1--> a
+s --2--> c
+a --6--> b
+b --2--> e
+b --1--> d
+c --4--> a
+c --4--> d
+d --1--> e
+```

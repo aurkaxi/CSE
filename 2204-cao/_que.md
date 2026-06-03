@@ -22,3 +22,12 @@
 3. depict the block diagram of the von neumann architecture
 4. perform restoring division algorithm where, dividend = 13 and divisor = 4. 
 5. describe ieee 754 representation of 18.625
+# fec incourse 1
+1. design a 4-bit full adder with look-ahead carry
+2. show the steps and block diagram to multiply any 2 standard numbers using booth's algorithm.
+3. design a 4 bit and 8 functions arithmetic unit. 
+4. design a 4 bit and 4 functions logic unit. 
+5. show op-code encoding mechanism of 0,1, and 2 adress instruction with 8 bits
+6. describe the operation of an accumulator based computer with block diagram
+7. classify instruction set with example
+8. describe addressing mode with example

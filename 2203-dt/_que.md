@@ -41,3 +41,8 @@
 | ip address       | 102.168.10.10     | 192.168.10.20     | n/a      |
 | mac adress       | a1:a2:a3:a4:a5:a6 | b1:b2:b3:b4:b5:b6 | n/a      |
 your answer should include all the basic and appropriate header contents of transport layer. network layer and data-link layer of tcp/ip protocol
+# fec incourse 1
+1. write the key differences between analog and digital signals with diagram. a periodic signal has a bandwidth of 2hz. the highest frequency is 60 hz. what is the lowest frequency? draw the spectrum if the signal contains all frequencies of the same amplitude
+2. what information dhcp provides? a bank has mutiple branches across a country. which network topology should be used and why
+3. discuss the three main types of transmission impaisments with examples. what is the propagation time if de distance (atlantic ocean) between the two points is 16,000km? assume propagation speed to be $2.4xx10^8$ m/s in cable
+4. why are nyquist and shannon formulas important in data communication? suppose, we need to send 265 kbps over a noiseless channel with a bandwidth of 20khz. how many signal levels do we need?

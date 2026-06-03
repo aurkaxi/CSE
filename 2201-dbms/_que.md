@@ -31,3 +31,9 @@ candidate key: (student, subject)
 	1. find the id and name of each emploee who does not work for "bigbank"
 	2. find the id and name of each employee who earns at least as much as every employee in the database
 6. what is the result of first performing the cartesian product of student and advisor, and then performing a selection operation on the result with the predicate Sid=ID? (using the symbolic notation of relational algebra, this query can be written as $sigma_(sid)=ID(student xx advisor)$)
+# fec incourse 1
+1. define schema with example. explain the concept of physical data independence and its importance in database systems
+2. list four significant differences between a file processing system and dbms
+3. explain the difference between two tier and three-tier application architectures. which is better suited for web applications? why?
+4. define referential integrity constraints. briefly explain different mapping cardinalities with mapping diagram
+5. explain the difference between an entity, an attribute and a relationtship in the er model. what are disjoint and overlapping constraints in specialization and generalization? explain with examples

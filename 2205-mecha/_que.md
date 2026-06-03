@@ -23,3 +23,9 @@
 	1. explain any one sensor-transducer mechanism that can be used to detect the distance of a person approaching the door
 	2. if the door position (open or closed) is provided as feedback, draw a block diagram showing how this forms a closed-loop control system for accurate door operation. briefly explain the diagram and identify the following elements in the system: input, output, feedback element and controller
 	3. in 1-2 sentences, explain how the closed loop control system maintains higher accuracy and reliability in door operation compared to an open loop system.
+# fec incourse 1
+1. define mechatronics with its constituents. sketch and show the non-linearity and hysteresis properties of sensor
+2. a potentiometer displacement sensor is to be used to position measurement that has a diameter of 8.8 cm. if the slider around the complete track for a distance of 100 cm. the resistance changes linearly over this range from 0 to 0.8$kOmega$. the above sensor is incorporated in last-two-digit_ur_reg_n(exp:0.22A) current. for an output motion of 220v the sensitivity of the potentiometer is ?
+3. what is electrical strain gauge? the output of the industrial lvdt is connected to a voltmeter of range of 0v to 22V through amplifier having a gain of 220. for a displacement of 14mm. find the output of lvdt and the sensitivity of the instrument(v/m)
+4. define dielectric onstant. describe and sketch if needed how a capacitive proximity sensor detects the presence of non-metallic objects in its specific close range?
+5. an rtd resistance increases from 100 to 115.4 ohm. find the temperature rise & the sensitivity of rtd?
