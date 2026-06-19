@@ -41,6 +41,24 @@
 | ip address       | 102.168.10.10     | 192.168.10.20     | n/a      |
 | mac adress       | a1:a2:a3:a4:a5:a6 | b1:b2:b3:b4:b5:b6 | n/a      |
 your answer should include all the basic and appropriate header contents of transport layer. network layer and data-link layer of tcp/ip protocol
+# niter incourse 2
+1. a network with a bandwidth of 10 mbps can pass only an average of 12000 frames/minute, with each frame carrying an average value of 10000 bits. find the throughput of this network and determine how much bandwidth will remain unused.
+2. explain how block coding improved the performance of line coding. with a neat block diagram, discuss the process of 8b/10b encoding technique of block coding
+3. the capacity of this channel is zero regardless of the bw if the noise is so strong that the signal is faint. justify it mathematically
+4. a digital communication system transmits data at a rate of 100 kbps each signal element carries 1 bit of data. the case factor c varies between 0 and 1. answer the following
+	1. determine the range of minimum bandwidth
+	2. find the number of signal levels used in this system
+	3. if the system designer wants to reduce bandwidth, should the increase or decrease the number of signal levels? justify mathematically
+5. why use the scrambling technique? convert the given sequence 111_000_0000_0000 using the following scrambling technique. assume last non-zero signal as positive
+	1. b8zs
+	2. hdb3
+6. draw the nrz-l, nrz-i, manchester, and differntial manchester scheme signals for the following data. assume last non zero signal as positive
+	1. 0000_0000
+	2. 1111_1111
+	3. 0101_0101
+	4. 1010_1010
+7. to guarantee the detection of up to s errors in all cases, the minimum hamming distance in a block code must be dmin=s+1; true of false? justify with an example
+8. a simple parity check code can detect an odd number of errors through the syndrome- prove it
 # fec incourse 1
 1. write the key differences between analog and digital signals with diagram. a periodic signal has a bandwidth of 2hz. the highest frequency is 60 hz. what is the lowest frequency? draw the spectrum if the signal contains all frequencies of the same amplitude
 2. what information dhcp provides? a bank has mutiple branches across a country. which network topology should be used and why
