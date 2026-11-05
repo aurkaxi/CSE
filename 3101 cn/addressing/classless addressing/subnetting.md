@@ -1,0 +1,2 @@
+dividing a large block of addresses into several contiguous sub-blocks and assigning these sub-blocks to different smaller networks is called subnetting. it is a practice that is widely used when classless addressing is done. 
+a subnet or subnetwork is a network inside a network. subnets make networks more efficient. through subnetting, network traffic can travel a shorter distance without passing through unnecessary routers to reach its destination.

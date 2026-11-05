@@ -1,0 +1,1 @@
+cidr solves the problem of ip address exhaustion and inefficient address allocation. with the growth of the internet, the original ip adderss classes (class a, b, and c) led to wastage of ip addresses, due to their fixed size. cidr enables the allocation of variable sized blocks of ip addressses, improving address space utilization
