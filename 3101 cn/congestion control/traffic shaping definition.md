@@ -1,0 +1,2 @@
+Traffic shaping (also known as packet shaping) is a bandwidth management technique that delays the flow of certain types of network packets to ensure high performance and quality of service (QoS) for higher-priority applications.
+Approach of congestion management is called Traffic shaping. Traffic shaping helps to regulate the rate of data transmission and reduces congestion

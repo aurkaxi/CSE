@@ -1,0 +1,1 @@
+congestion control is a mechanism that controls the entry of data packets into the network, enabling a better use of a shared network infrastructure and avoiding congestive collapse. congestive avoidance algorithms caa are implemented at the tcp layer as the mechanism to avoid congestive collapse in a network.

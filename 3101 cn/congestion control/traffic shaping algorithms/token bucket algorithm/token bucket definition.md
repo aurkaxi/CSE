@@ -1,0 +1,1 @@
+The Token Bucket Algorithm controls network traffic by giving permission to transmit data packets only when a sufficient number of pre-generated "tokens" are available.

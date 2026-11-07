@@ -1,0 +1,1 @@
+The Leaky Bucket Algorithm is a widely used traffic shaping and rate-limiting mechanism in computer networks and system design. Its primary purpose is to smooth out bursty data traffic into a steady, predictable flow, preventing sudden spikes from overwhelming network resources or API servers.

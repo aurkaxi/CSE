@@ -1,0 +1,1 @@
+The main purpose of the Leaky Bucket Algorithm is to regulate data flow and smooth out sudden traffic spikes into a steady, constant output rate. to prevent network congestion.

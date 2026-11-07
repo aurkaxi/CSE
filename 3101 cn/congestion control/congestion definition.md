@@ -1,0 +1,1 @@
+a state occuring in a network layer when the message traffic is so heavy that is slows down network response time.

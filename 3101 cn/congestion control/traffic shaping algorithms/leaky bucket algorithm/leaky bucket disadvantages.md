@@ -1,0 +1,4 @@
+- **Inefficient Bandwidth Utilization:** The rigid leak rate cannot dynamically scale up. If the network experiences an idle period, that potential capacity is permanently wasted and cannot be used to clear subsequent traffic faster.
+- **Zero Burst Tolerance:** Unlike the Token Bucket algorithm, it lacks a credit-saving mechanism, strictly penalizing and delaying even safe, short-lived traffic spikes.
+- **Introduces Systematic Latency:** Forcing packets to wait in a queue to meet the fixed leak rate creates artificial delay, degrading performance for highly interactive, time-sensitive applications (e.g., gaming, live trading).
+- **Data Loss via Packet Dropping:** When the buffer reaches full capacity during heavy traffic windows, excess packets are immediately discarded, potentially triggering costly higher-layer retransmissions.
