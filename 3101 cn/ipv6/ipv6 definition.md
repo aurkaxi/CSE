@@ -1,0 +1,1 @@
+ipv6 was developed by internet engineering task force to deal with the problem of ipv4 exhaustion. ipv6 is a 128 bits address having and address having an address of 2^128 which is way bigger than ipv4. ipv6 use hexa decimal format separated by colon

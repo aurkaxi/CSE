@@ -1,0 +1,1 @@
+![[public private ip diagram.png]]
