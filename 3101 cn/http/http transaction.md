@@ -1,2 +1,2 @@
-![[Pasted image 20261109010258.png]]
+![[http transaction diagram.png]]
 the above figure shows the http transaction between client and server. the client initiates a transaction by sending a request message to the server. the server replies to the request message by sending a response message
