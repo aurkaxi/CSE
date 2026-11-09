@@ -1,0 +1,1 @@
+it is the determination of the amount of data is transmitted during a specified time period via a network, interface or channel. also called as effective data rate or payload rate.

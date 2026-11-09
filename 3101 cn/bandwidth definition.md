@@ -1,0 +1,1 @@
+it is defined as the potential of the data is to be transferred in a specific period of time. it is the data carrying capacity of the network transmission medium
