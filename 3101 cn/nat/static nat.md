@@ -1,0 +1,2 @@
+a single unregistered ip address is mapped with legally registered public ip address i.e. one to one mapping between local and global addresses. this is generally used for web hosting. these are not used in organizations as there are many devices that will need internet access and to provide internet access, a public address is needed.
+suppose, if there are 3000 devices that need access to the internet, the organization has to buy 3000 public addresses that will be very costly

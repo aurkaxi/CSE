@@ -1,0 +1,1 @@
+![[nat diagram.png]]

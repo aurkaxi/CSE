@@ -1,0 +1,1 @@
+this is also known as nat overload. in this, maly local private ip addresses can be translated to a single registered ip address. port numbers are used to distinguish the traffic i.e. which traffic belong to which ip address. this is most frequently used as it is cost effective as thousands of users can be connected to the internet by using only one real global public ip address.
