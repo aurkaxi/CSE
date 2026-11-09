@@ -1,0 +1,1 @@
+it lasts until the congestion window size reaches up to "slow start threshold (ssthresh)". the slow start algorithm doubles the congestion window size (cwnd) in one rtt. initially, ssthresh is set to infinite. subsequently, it adapts depending on the packet loss events. when cwnd becomes equal to sshthresh, slow start stops. after that aimd phase takeovers

@@ -1,0 +1,2 @@
+One major feature of TCP Reno is its fast recovery from packet loss. When packet loss occurs, instead of retransmitting all unacknowledged packets, it only retransmits the lost packets along with subsequent new packets. This helps reduce delays in data transmission and can improve overall network throughput. 
+Another benefit of using TCP Reno is its ability to dynamically adjust its congestion control window size based on network conditions.

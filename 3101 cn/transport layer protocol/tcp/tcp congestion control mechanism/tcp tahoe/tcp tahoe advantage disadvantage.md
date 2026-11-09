@@ -1,0 +1,3 @@
+One significant advantage of using TCP Tahoe is its ability to detect network congestion quickly and adjust accordingly without causing packet loss or degradation in performance. It also maintains fairness across multiple connections sharing a common link. 
+However, one disadvantage is its inability to handle high levels of congestion effectively when multiple connections compete for network resources simultaneously. This can lead to lower throughput or increased latency as more packets are dropped due to insufficient resources. 
+Overall, understanding TCP Tahoe's definition, origin, features, benefits, advantages, and disadvantages helps us appreciate why it remains relevant in modern networks and how it compares to other congestion control algorithms like TCP Reno

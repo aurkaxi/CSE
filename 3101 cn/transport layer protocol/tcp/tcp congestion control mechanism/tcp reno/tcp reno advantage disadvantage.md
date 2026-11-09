@@ -1,0 +1,2 @@
+The primary advantage of using TCP Reno is its better performance under high network congestion conditions compared to other protocols like TCP Tahoe. It can recover from packet loss more quickly, leading to faster data transfer rates. 
+However, one disadvantage of using this protocol is that it can lead to higher levels of network utilization which may cause other competing applications on the same network to suffer performance degradation due to bandwidth contention issues.

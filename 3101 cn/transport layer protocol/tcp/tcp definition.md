@@ -1,0 +1,1 @@
+transmission control protocol is a connection oriented protocol for communications that help in the exchange of messages between different devices over a network. the internet protocol which establishes the technique for sending data packets between computers work with tcp

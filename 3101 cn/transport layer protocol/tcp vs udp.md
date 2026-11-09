@@ -1,0 +1,9 @@
+
+| transmission control protocol                                                                                                   | user datagram protocol                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| connection oriented                                                                                                             | connection less                                                                             |
+| the most widely used protocol                                                                                                   | used for voice over ip, streaming video, gaming, and live broadcasts                        |
+| guarantees that no packets are missing and all the data that's sent makes it to the intended recipient                          | allows missing packets, but the sender is unable to know whether a packet has been received |
+| sends packets in order so they can be stitched back together easily                                                             | packets don't necessarily arrive in order                                                   |
+| slower and requires more resources                                                                                              | faster and needs fewer resources                                                            |
+| has a bigger header that udp, best suited for apps that need high reliability and transmission time is relatively less critical | better suited for applications that need fast, efficient transmission, such as games        |

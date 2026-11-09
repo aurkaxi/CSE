@@ -1,0 +1,1 @@
+tcp tahoe where tahoe is a lake in the usa. this particular tcp was designed around that lake and hence it was named tcp tahoe. it was the first tcp variant with in built congestion conrol algorithms. when tcp was first designed in 1981, congestion control was not an integral part of it
