@@ -1,0 +1,1 @@
+as the name suggests, these algorithms are a combination of both adaptive and non-adaptive algorithms. in this approach, the network is divided into several regions, and each region uses a different algorithm.

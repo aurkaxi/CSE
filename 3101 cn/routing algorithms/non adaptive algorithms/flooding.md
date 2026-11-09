@@ -1,0 +1,1 @@
+this adapts the technique in which every incoming packet is sent on every outgoing line except from which it arrived. one problem with this is that packets may go in a loop and as a result of which a node may receive duplicate packets. these problems can be overcome with the help of sequence numbers, hop count and spanning trees.

@@ -1,0 +1,1 @@
+in this method, packets are sent host by host or node by node to one of its neighbors randomly. this is highly robust method that is usually implemented by sending packets onto the link which is least queued 

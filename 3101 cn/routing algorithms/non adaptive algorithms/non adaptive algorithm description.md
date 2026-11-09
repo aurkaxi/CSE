@@ -1,0 +1,1 @@
+these are the algorithms that do not change their routing decisions once they have been selected. this is also known as static routing as a route to be taken is computed in advance and downloaded to routers when a router is booted

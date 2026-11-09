@@ -1,0 +1,1 @@
+in this method, each router maintains a table that contains information about the distance and direction to every other node in the network. this table is then shared with other routers in the network. the disadvantage of this method is that it may lead to routing loops

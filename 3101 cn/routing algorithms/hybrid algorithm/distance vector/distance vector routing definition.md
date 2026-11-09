@@ -1,0 +1,1 @@
+a distance vector routing dvr protocol requires that a router inform its neighbors of topology changes periodically. historically known as the arpanet routing algorithm or known as bellman form algorithm

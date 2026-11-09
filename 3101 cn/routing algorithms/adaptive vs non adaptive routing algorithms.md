@@ -1,0 +1,3 @@
+adaptive algorithms are the algorithms that change their routing decisions whenever network topology or traffic load changes. it is called dynamic routing. adaptive algorithm is used in a large amount of data, highly complex network, and rerouting of data.
+
+non adaptive algorithms are algorithms that do not change their routing decisions once they have been selected. it is also called static routing. non adaptive algorithm is used in case of a small amount of data and a less complex network.

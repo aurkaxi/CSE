@@ -1,0 +1,1 @@
+in this method, the node receives information from its neighbors and then takes the decision about routing the packets. a disadvantage is that the packet may be delayed if there is a change in between intervals in which it receives information and sends packets. it is also known as a decentralized algorithm as it computes the least cost path between source and destination.

@@ -1,0 +1,1 @@
+each router maintains a distance vector table containing the distance between itself and all possible destination nodes. distances based on a chosen metric, are computed using information from the neighbors' distance vectors
