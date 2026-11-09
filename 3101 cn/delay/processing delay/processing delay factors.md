@@ -1,0 +1,1 @@
+it depends on the speed of the processor.

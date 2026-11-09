@@ -1,0 +1,1 @@
+let the packet is received by the destination, the packet will not be processed by the destination immediately. it has to wait in a queue in something called a buffer. so the amount of time waits in queue before being processed is called queuing delay.

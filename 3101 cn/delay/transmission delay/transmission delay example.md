@@ -1,0 +1,2 @@
+if bandwidth is 1 bps (every second 1 bit can be transmitted onto the transmission medium) and data size is 20 bits then what is the transmission delay?
+if one second, 1 bit can be transmitted, to transmit 20 bits, 20 seconds would be required

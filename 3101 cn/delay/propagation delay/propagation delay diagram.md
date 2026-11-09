@@ -1,0 +1,1 @@
+![[propagation delay diagram.png]]

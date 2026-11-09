@@ -1,0 +1,1 @@
+the time taken to transmit a packet from the host to the transmission medium is called transmission delay.

@@ -1,0 +1,1 @@
+![[transmission delay diagram.png]]

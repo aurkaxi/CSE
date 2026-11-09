@@ -1,0 +1,1 @@
+after the paket is transmitted to the transmission medium, it has to go through the medium to reach the destination. hence the time taken by the last bit of the packet to reach the destination is called propagation delay
