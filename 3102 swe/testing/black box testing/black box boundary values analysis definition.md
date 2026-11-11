@@ -1,0 +1,2 @@
+most of the errors occur at the boundaries of the input domain than in the center
+boundary value analysis is a test case design technique that complements equivalence partitioning. rather than selecting any element equivalence class, it select the test cases from the 'edges' of the class. it defines test cases not only from input, also from output domain

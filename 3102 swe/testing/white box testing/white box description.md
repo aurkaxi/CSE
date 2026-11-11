@@ -1,0 +1,1 @@
+white box testing relies on intimate knowledge of the code and a procedural design to derive the test cases. its most widely utilized in unit testing to determine all possible paths within a module, all loops and logical expressions

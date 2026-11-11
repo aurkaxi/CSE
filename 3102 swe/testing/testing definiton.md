@@ -1,0 +1,2 @@
+software testing is an activity aimed at evaluating an attribute or capability of a program or system and determining that it meets its required results
+software testing is a critical component of software engineering process. it is an element of software quality assurance and can be describes as a process of running a program in such a way which can uncover any error

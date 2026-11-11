@@ -1,0 +1,3 @@
+any engineering product can be tested in one of two ways
+1. white box or structural testing: knowing the internal workings of a product, test can be conducted to ensure that all internal operations are performed according to specifications and have adequately examined.
+2. black box or functional testing: knowing the specified function that a product has been designed to perform, test can be conducted to verify that each function is fully operational while at the same time searching for error in each function

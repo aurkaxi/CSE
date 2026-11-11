@@ -1,0 +1,1 @@
+a mixture of all functional testing. main goal is to prove that the application is not suited for user's requirements.

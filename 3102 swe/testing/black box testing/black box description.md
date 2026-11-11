@@ -1,0 +1,1 @@
+focused on the overall functionality of the software. black box tests are conducted at software interface. 

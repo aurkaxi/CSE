@@ -1,0 +1,1 @@
+here developers are not generally present. it is a live application of the sw in an environment that cannot be controlled by the developers. users record the errors and send reports to the developer at regular intervals

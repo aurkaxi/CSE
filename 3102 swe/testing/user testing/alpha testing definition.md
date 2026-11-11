@@ -1,0 +1,1 @@
+is conducted by the end users in a set up controlled by the developers. sw is in a natural setting with developer 'looking over the shoulder' of typical users and recording errors and usage problem
