@@ -1,20 +1,6 @@
 # what is ipv6
 Internet Protocol version 6 (IPv6) is the most recent version of the Internet Protocol (IP), developed by the Internet Engineering Task Force IETF to deal with the long-anticipated problem of IPv4 address exhaustion. It uses 128-bit addresses, yielding an address space of $2^128$ addresses. 
 IPv6 addresses are represented as eight groups of four hexadecimal digits each, separated by colons. example `2001:0db8:85a3:0000:0000:8a2e:0370:7334`
-# why was ipv6 introduced
-IPv6 was introduced primarily to solve the IPv4 address exhaustion problem caused by the rapid, global growth of the internet and the massive increase in connected devices.
-Key Reasons for Introduction
-- **Address Shortage:** IPv4 uses a 32-bit system that only supports about **4.3 billion** unique addresses, which quickly became depleted as computers, mobile phones, and internet-connected devices multiplied worldwide.
-
-- **Massive Scale:** IPv6 upgrades to a **128-bit** system, creating roughly **340 undecillion** (3.4 × 10³⁸) addresses to ensure long-term global growth.
-
-- **Eliminating Workarounds:** It was built to replace temporary stopgaps like Network Address Translation (NAT) and restore direct, end-to-end device connectivity.
-
-- **Other Improvements:** It offers simplified packet headers, built-in security features, and better routing efficiency.
-# What is the address size of IPv6?
-128 bits
-# How many bits are there in an IPv6 address?
-128 bits :) obviously
 # What is the hexadecimal representation used in IPv6?
 An IPv6 address uses a 128-bit number represented as **eight groups of four hexadecimal digits** separated by colons `x:x:x:x:x:x:x:x`.
 - **Length:** 128 bits total, split into **eight 16-bit blocks** (called hextets or quartets).
@@ -26,8 +12,6 @@ An IPv6 address uses a 128-bit number represented as **eight groups of four hexa
 - **Character Set:** Uses numbers **`0–9`** (representing values 0 through 9) and letters **`A–F`** or **`a–f`** (representing values 10 through 15). Hexadecimal characters are not case-sensitive.
 
 - **Nibble Mapping:** Each single hexadecimal character represents a **4-bit nibble** (4 bits × 32 characters = 128 bits).
-# How many groups are present in a normal IPv6 address?
-eight :)
 # What is the purpose of the :: notation in IPv6?
 The `::` (double colon) notation in IPv6 is used to **compress consecutive blocks of all-zero 16-bit groups (hextets)**, shortening long addresses and making them easier to read and write.
 
@@ -120,9 +104,6 @@ Major Features of IPv6
 | **Network Address Translation (NAT)** | Required to extend address space                                                                                    | Not required (uses direct end-to-end routing)                                                                                                  |
 | **Communication Types**               | Unicast, Broadcast, Multicast                                                                                       | Unicast, Multicast, Anycast (no broadcast)                                                                                                     |
 | **Fragmentation**                     | Handled by both senders and routers                                                                                 | Handled _only_ by the sending device                                                                                                           |
-# Explain the structure of an IPv6 address.
-[[#What is the hexadecimal representation used in IPv6?]]
-
 # Compress the following IPv6 address:
 1. 
 original= `2001:0DB8:0000:0000:0000:0000:0000:0001`
