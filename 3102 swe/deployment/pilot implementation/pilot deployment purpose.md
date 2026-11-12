@@ -1,0 +1,1 @@
+Pilot deployments (typically a smaller and/or shorter-term deployment of a bigger solution) are great and allow an agency to confirm that a solution will provide the anticipated value to them, help them achieve their objectives, and help identify and allocate the appropriate resources to be successful.

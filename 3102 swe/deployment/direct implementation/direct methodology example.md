@@ -1,0 +1,1 @@
+A bank replaces their trading systems on Sunday night such that the old system is immediately retired and the new system immediately handles all trade volume from Monday morning 

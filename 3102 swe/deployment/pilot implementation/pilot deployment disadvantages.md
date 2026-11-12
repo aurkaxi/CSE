@@ -1,0 +1,1 @@
+The main disadvantage is the process takes a long time to complete because phases need to be implemented separately. With a pilot changeover, the new system is tried out at a test site before launching it company-wide. For example, a bank may first test the system at one of its branches.

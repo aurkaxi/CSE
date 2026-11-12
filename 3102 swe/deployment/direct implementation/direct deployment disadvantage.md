@@ -1,0 +1,2 @@
+In this deployment, a newly developed system is installed, which instantly makes the system ready to use.
+Disadvantage: It is risky if the system fails. It is highly risky to execute the program, because the service may interrupt at anytime.

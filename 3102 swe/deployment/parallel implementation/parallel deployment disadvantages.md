@@ -1,0 +1,1 @@
+First of all, it can be costly and time-consuming to maintain and run two systems or software at the same time. You will need more resources, equipment, and staff to manage the data synchronization, duplication, and validation between the two systems. 

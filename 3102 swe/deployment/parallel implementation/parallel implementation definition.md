@@ -1,0 +1,1 @@
+as the name suggests, parallel implementation involves running both systems concurrently until the business is ready to make the switch from old to new

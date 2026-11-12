@@ -1,0 +1,1 @@
+Existing system and new systems are deployed simultaneously for a period of time. At the end of that period if the new system has no any bugs, then the existing system is dropped and new system will be continued. If a failure occurs in new system, the data can be recovered from the existing system. 

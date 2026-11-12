@@ -1,0 +1,1 @@
+pilot implementations allow for a significant reduction of uncertainty caused by the introduction of new solutions and better risk estimation. Moreover, by indicating in practice all the areas affected by innovation, it allows for even better use of its benefits. We will conduct a pilot implementation.

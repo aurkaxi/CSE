@@ -1,0 +1,2 @@
+In this deployment, a newly developed system is installed, which instantly makes the system ready to use.
+Advantage: It is very simple and easy to use. It is very easy to plan and execute the new system into a machine.

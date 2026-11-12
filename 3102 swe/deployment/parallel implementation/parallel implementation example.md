@@ -1,0 +1,1 @@
+New staff and old staff work for the same job. If the new staff's performance is OK, the existing staff may not be needed any more, and will be replaced. Another example is when a new firm which undergoes change in ownership and wants to recruit new staff to operate the firm. 
